@@ -1,7 +1,7 @@
 
 ![Banner](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png)
 
-<h1 align="center">Hi 👋, I'm Spotify</h1>
+<h1 align="center">Hi 👋, I'm MD Zawadul Aman Hredoy</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
 ---
@@ -34,9 +34,9 @@ I continuously learn new technologies and focus on clean code and performance.
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 🐙 GitHub: https://github.com/spotify11189
-- 🐦 Twitter: https://twitter.com/your-twitter
+- 💼 LinkedIn: https://www.linkedin.com/in/md-zawadul-aman-hredoy-a51635261/
+- 🐙 GitHub: https://github.com/ZawadulAmanHredoy
+- 🐦 Twitter: https://x.com/ZHredy5070
 
 ---
 
