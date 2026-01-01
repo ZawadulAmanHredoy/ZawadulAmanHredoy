@@ -1,5 +1,5 @@
 
-![Banner](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png)
+![Banner](https://raw.githubusercontent.com/ZawadulAmanHredoy/ZawadulAmanHredoy/refs/heads/main/photo-1518770660439-4636190af475.avif)
 
 <h1 align="center">Hi 👋, I'm MD Zawadul Aman Hredoy</h1>
 <h3 align="center">MERN Stack Developer</h3>
