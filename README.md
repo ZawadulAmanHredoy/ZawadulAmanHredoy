@@ -78,7 +78,7 @@ I'm a **MERN Stack Developer** who enjoys turning ideas into scalable, secure, a
 <div align="center">
 
 <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=ZawadulAmanHredoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZawadulAmanHredoy&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=ZawadulAmanHredoy&theme=tokyonight&hide_border=true" width="49%"/>
 
 <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=ZawadulAmanHredoy&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
