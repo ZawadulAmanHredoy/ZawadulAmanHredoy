@@ -12,6 +12,12 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ZawadulAmanHredoy&color=6366f1&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/ZawadulAmanHredoy?style=flat-square&color=6366f1&label=Followers)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ZawadulAmanHredoy&label=Public%20Repos&query=%24.public_repos&color=6366f1&style=flat-square)
+
 </div>
 
 <br/>
@@ -71,10 +77,20 @@ I'm a **MERN Stack Developer** who enjoys turning ideas into scalable, secure, a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZawadulAmanHredoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=ZawadulAmanHredoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZawadulAmanHredoy&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZawadulAmanHredoy&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=ZawadulAmanHredoy&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+
+</div>
+
+<br/>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZawadulAmanHredoy&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
