@@ -121,7 +121,7 @@ I'm a **MERN Stack Developer** who enjoys turning ideas into scalable, secure, a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZawadulAmanHredoy&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-activity-graph.vercel.app/graph?username=ZawadulAmanHredoy&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -140,3 +140,4 @@ I'm a **MERN Stack Developer** who enjoys turning ideas into scalable, secure, a
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" width="100%"/>
+
