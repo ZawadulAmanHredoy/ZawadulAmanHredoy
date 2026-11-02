@@ -8,7 +8,7 @@
 <a href="https://x.com/ZHredy5070">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="mailto:mdshahin2527@gmail.com">
+<a href="mailto:zawadulamanhredoy11189@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -133,11 +133,12 @@ I'm a **MERN Stack Developer** who enjoys turning ideas into scalable, secure, a
 
 [![LinkedIn](https://img.shields.io/badge/-Md_Zawadul_Aman_Hredoy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-zawadul-aman-hredoy-a51635261/)
 [![Twitter](https://img.shields.io/badge/-@ZHredy5070-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ZHredy5070)
-[![Gmail](https://img.shields.io/badge/-mdshahin2527@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mdshahin2527@gmail.com)
+[![Gmail](https://img.shields.io/badge/-zawadulamanhredoy11189@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zawadulamanhredoy11189@gmail.com)
 
 </div>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" width="100%"/>
+
 
