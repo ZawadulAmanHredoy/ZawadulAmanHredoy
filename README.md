@@ -140,5 +140,3 @@ I'm a **MERN Stack Developer** who enjoys turning ideas into scalable, secure, a
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" width="100%"/>
-<!-- GitHub Achievements Enabled -->
-<!-- Pull Shark Achievement Trigger -->
