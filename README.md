@@ -17,6 +17,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ZawadulAmanHredoy&color=6366f1&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/ZawadulAmanHredoy?style=flat-square&color=6366f1&label=Followers)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ZawadulAmanHredoy&label=Public%20Repos&query=%24.public_repos&color=6366f1&style=flat-square)
+[![GitHub Achievements](https://img.shields.io/badge/Achievements-Unlocked-6366f1?style=flat-square&logo=github)](https://github.com/ZawadulAmanHredoy?tab=achievements)
 
 </div>
 
@@ -31,6 +32,36 @@ I'm a **MERN Stack Developer** who enjoys turning ideas into scalable, secure, a
 - 🛠️ Focused on clean architecture, backend performance, and frontend UX
 - 💬 Ask me about MongoDB, Express, React, or Node.js
 - 📍 Based in Savar, Dhaka, Bangladesh
+
+<br/>
+
+## 🏆 Badges & Achievements
+
+<div align="center">
+
+<a href="https://github.com/ZawadulAmanHredoy?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="85" alt="Quickdraw" title="Quickdraw: Closed an issue or PR within 5 minutes" />
+</a>
+<a href="https://github.com/ZawadulAmanHredoy?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="85" alt="Pull Shark" title="Pull Shark: Opened 2 pull requests that were merged" />
+</a>
+<a href="https://github.com/ZawadulAmanHredoy?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="85" alt="Pair Extraordinaire" title="Pair Extraordinaire: Co-authored a merged commit" />
+</a>
+<a href="https://github.com/ZawadulAmanHredoy?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="85" alt="YOLO" title="YOLO: Merged a PR without code review" />
+</a>
+<a href="https://github.com/ZawadulAmanHredoy?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="85" alt="Galaxy Brain" title="Galaxy Brain: 2 accepted answers in discussions" />
+</a>
+<a href="https://github.com/ZawadulAmanHredoy?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="85" alt="Starstruck" title="Starstruck: Created a repository that reached 16 stars" />
+</a>
+<a href="https://github.com/ZawadulAmanHredoy?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="85" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor" />
+</a>
+
+</div>
 
 <br/>
 
